@@ -32,8 +32,8 @@ import java.util.Date;
 
 public class my_adapter extends BaseAdapter{
     private Context context;
-    static LayoutInflater inflater = null;
-    ArrayList<Book> list;
+    public static LayoutInflater inflater = null;
+    public ArrayList<Book> list;
 
 
     /**
