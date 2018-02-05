@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Subbook</string>
+    <string name="title_activity_addsub">AddsubActivity</string>
+</resources>
